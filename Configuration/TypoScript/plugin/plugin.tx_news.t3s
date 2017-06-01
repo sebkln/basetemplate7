@@ -68,7 +68,7 @@ plugin.tx_news {
             itemsPerPage = 10
             insertAbove = 0
             insertBelow = 1
-            templatePath = EXT:basetemplate7/Resources/Private/Templates/news/ViewHelpers/Widget/Paginate/Index.html
+#            templatePath = EXT:basetemplate7/Resources/Private/Templates/news/ViewHelpers/Widget/Paginate/Index.html
             prevNextHeaderTags = 0
             maximumNumberOfLinks = 3
         }
