@@ -17,11 +17,9 @@ mod.web_layout.BackendLayouts {
                                 colspan = 2
                                 colPos = 0
                             }
-
-
                             2 {
                                 name = LLL:EXT:basetemplate7/Resources/Private/Language/locallang_be.xlf:BackendLayouts.col.sidebar
-                                colPos = 2
+                                colPos = 1
                             }
                         }
                     }
