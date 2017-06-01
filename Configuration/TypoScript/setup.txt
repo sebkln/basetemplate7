@@ -45,9 +45,13 @@ page {
             noTrimWrap.stdWrap.insertData = 1
         }
     }
-    
+
     includeCSS {
-        demo = EXT:basetemplate7/Resources/Public/Css/demo.css
+        style = EXT:basetemplate7/Resources/Public/Css/style.css
+        style.media = all
+        webfont = https://fonts.googleapis.com/css?family=Ubuntu:300,500,500i
+        webfont.external = 1
+        webfont.media = all
     }
 
     // include JavaScript before </head>:
